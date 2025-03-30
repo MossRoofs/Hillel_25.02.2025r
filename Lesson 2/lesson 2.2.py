@@ -6,4 +6,5 @@ c = (number % 1000) // 100
 b = (number % 10000) //1000
 a = number // 10000
 
-print(e, d, c, b, a)
+print(e,d,c,b,a, sep="")
+
